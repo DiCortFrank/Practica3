@@ -34,5 +34,9 @@ pero como los 2 significan lo mismo da verdadero
 
 #Ejercicio4
 
+4.1 codigo aparte
+
+#Ejercicio5
+
 
 

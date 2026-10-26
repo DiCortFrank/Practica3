@@ -4,7 +4,7 @@
 #practica3
 
 #Ejercicio1
-1.1En la primera instruccion compara los valores a y v al a ser java y b ser java pero creado como objeto nuevo el resultado es falso
+1.1En la primera instruccion compara los valores a y b al a ser java y b ser java pero creado como objeto nuevo el resultado es falso
 1.2En la segunda instruccion compara los valores a y c pero por ser los mismos elementos en
 String pool es c toma la referencia de a por string pool por lo que es verdadero
 1.3En la tercera instruccion compara los valores de a y d es falso ya que ja no es lo mismo que java solo pasa despues de la suma pero un inicio son distintos por lo que es falso

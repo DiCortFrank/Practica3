@@ -1,4 +1,8 @@
-# Practica3
+## Practica3
+#Cortes Franco Diego 
+#Ciencias de la computacion
+#practica3
+
 #Ejercicio1
 1.1En la primera instruccion compara los valores a y v al a ser java y b ser java pero creado como objeto nuevo el resultado es falso
 1.2En la segunda instruccion compara los valores a y c pero por ser los mismos elementos en

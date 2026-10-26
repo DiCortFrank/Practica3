@@ -32,11 +32,10 @@ pero como los 2 significan lo mismo da verdadero
 3.7 Compara los valores de a y b pero con equals pero son lo mismo por que es verdadero
 3.8 Compara los valores de a y c pero como son disintos objetos es falso
 
-#Ejercicio4
+#Ejercicio4-12 (-12 y 10 xd)
+Estan en su respectivo archivo aparte y cumplen con las pruebas.
 
-4.1 codigo aparte
 
-#Ejercicio5
 
 
 
